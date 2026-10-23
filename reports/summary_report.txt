@@ -1,0 +1,26 @@
+AUTOMATED WEB SCRAPING PIPELINE
+================================
+
+Source: https://books.toscrape.com/
+Total books: 1000
+
+PRICE ANALYSIS (GBP)
+Average price: £35.07
+Median price: £35.98
+Minimum price: £10.00
+Maximum price: £59.99
+
+RATING ANALYSIS
+Average rating: 2.92
+Rating distribution:
+rating
+1    226
+2    196
+3    203
+4    179
+5    196
+
+DATA QUALITY
+Missing titles: 0
+Missing prices: 0
+Duplicate URLs: 0
